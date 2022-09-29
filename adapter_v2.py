@@ -175,8 +175,8 @@ def Get_Price(params, offset):  # Func for get latest price
 
 if __name__ == "__main__":
 
-    api_Key = 'LCksWnlYiLrkh4lTgpPud82v4kjHQwPCFt98I9Fb9jM3SyekNuhsyr49z7l6PJGs'
-    secret_Key = 'amZpjt6z4imaJUF1e8WUUllDjH01udQ52GKfDbIbwijozrkwVztEKl9bAls8SwOP'
+    api_Key = 'xxx'
+    secret_Key = 'yyy'
     time_to_sleep = 300
     tryes_limit = 3
     symbol = 'ETHUSDT'
